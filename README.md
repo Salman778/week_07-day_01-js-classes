@@ -1,7 +1,5 @@
 # JS Classes
 
-# Object Oriented JavaScript and Classes
-
 ## Learning Objectives
 
   - Explain the importance of OOJS 
