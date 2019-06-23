@@ -1,3 +1,5 @@
+![] (https://images.pexels.com/photos/2439595/pexels-photo-2439595.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 # JS Classes
 
 ## Learning Objectives
